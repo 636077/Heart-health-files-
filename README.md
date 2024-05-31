@@ -96,18 +96,25 @@ The script performs the following tasks:
 
     print('Accuracy level of this model:', accuracy)
     ```
+
 Jupyter Notebook
 The Jupyter Notebook HeartHealthPrediction.ipynb provides an interactive way to explore the data, perform data preprocessing, train the model, and visualize the results.
 
 How to Open the Jupyter Notebook
 Ensure you have Jupyter Notebook installed. If not, install it using:
 
+sh
+Copy code
 pip install notebook
 Navigate to the directory containing the notebook file:
 
+sh
+Copy code
 cd path/to/your/repository
 Launch Jupyter Notebook:
 
+sh
+Copy code
 jupyter notebook
 In the opened browser window, click on HeartHealthPrediction.ipynb to open and interact with the notebook.
 
