@@ -1,4 +1,4 @@
-#Heart Health Prediction
+# Heart Health Prediction
 
 This repository contains a Python script and datasets for predicting heart health risk using machine learning.
 
@@ -9,7 +9,7 @@ This repository contains a Python script and datasets for predicting heart healt
 - `MainCode.py`: Python script to train an XGBoost classifier and predict heart health risk based on user input.
 - Using Machine learning.ipynb 
 
-##Dataset Details
+## Dataset Details
 
 `data (2).csv`
 
@@ -32,7 +32,7 @@ Columns:
 
 `Data_heart.xlsx`
 
-##Columns:
+## Columns:
 - age
 - sex
 - cp (chest pain type)
@@ -45,7 +45,7 @@ Columns:
 - thal
 - diagnosis
 
-##Script Details
+## Script Details
 
 `MainCode.py`
 
@@ -97,7 +97,7 @@ The script performs the following tasks:
     print('Accuracy level of this model:', accuracy)
     ```
 
-##Jupyter Notebook
+## Jupyter Notebook
 The Jupyter Notebook HeartHealthPrediction.ipynb provides an interactive way to explore the data, perform data preprocessing, train the model, and visualize the results.
 
 How to Open the Jupyter Notebook
@@ -118,7 +118,7 @@ Copy code
 jupyter notebook
 In the opened browser window, click on HeartHealthPrediction.ipynb to open and interact with the notebook.
 
-##How to Use
+## How to Use
 
 1. Ensure all required packages are installed:
    pip install pandas scikit-learn xgboost
